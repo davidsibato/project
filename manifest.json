@@ -1,6 +1,6 @@
 {
     "name": "Sibato Project",
-    "shart_name": "2020 projects",
+    "short_name": "2020 projects",
     "start_url": "index.html",
     "display": "standalone",
     "background_color": "#fdfdfd",
@@ -10,6 +10,34 @@
         {
             "src": "images/icons/Project.png",
             "type": "image/png", "sizes": "72x72"
+        },
+        {
+          "src": "/images/icons/Project.png",
+          "type": "image/png", "sizes": "96x96"
+        },
+        {
+          "src": "/images/icons/Project.png",
+          "type": "image/png","sizes": "128x128"
+        },
+        {
+          "src": "/images/icons/Project.png",
+          "type": "image/png", "sizes": "144x144"
+        },
+        {
+          "src": "/images/icons/Project.png",
+          "type": "image/png", "sizes": "152x152"
+        },
+        {
+          "src": "/images/icons/Project.png",
+          "type": "image/png", "sizes": "192x192"
+        },
+        {
+          "src": "/images/icons/Project.png",
+          "type": "image/png", "sizes": "384x384"
+        },
+        {
+          "src": "/images/icons/Project.png",
+          "type": "image/png", "sizes": "512x512"
         }
         
     ]
