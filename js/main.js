@@ -3,7 +3,7 @@ var nbDrop = 800;
    function randRange(maxNum, minNum) {
     return (Math.floor(Math.random(10) * (maxNum - minNum + 1)) + minNum);
    }
-   
+   //creating the rain drop
    function createRain() {
     for (i = 0; i < nbDrop; i++) {
      
@@ -18,15 +18,15 @@ var nbDrop = 800;
    const container = document.querySelector(".container")
    const project=[
        {name: "online payment", image:"images/card.png", link:""},
-       {name: "tosala", image:"images/tosala2.png", link:""},
+       {name: "tosala", image:"images/tosala2.png", link:"https://letwork.herokuapp.com/"},
+       {name: "portfolio", image:"images/dav.png", link:"https://davidsibato.github.io/portfolio/"},
+       {name: "Siphone app", image:"images/images.png", link:"https://siphone.netlify.app/"},
        {name: "2j water", image:"images/water-drop.png", link:""},
+       {name: "mini netflix", image:"images/self.png", link:""},
        {name: "Priscy's Liquorshop", image:"images/liquor.png", link:""},
        {name: "Coffee shop", image:"images/coffee.jpg", link:""},
        {name: "first-rate care", image:"images/first-rate.png", link:""},
-       {name: "Aulda", image:"images/aulda.png", link:""},
-       {name: "portfolio", image:"images/dav.png", link:"https://davidsibato.github.io/portfolio/"},
-       {name: "mini netflix", image:"images/self.png", link:""},
-       {name: "music non stop", image:"images/music.png", link:""},
+       {name: "Aulda", image:"images/aulda.png", link:""}
    ]
 
    const showProject=()=>{
