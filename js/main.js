@@ -21,10 +21,10 @@ var nbDrop = 800;
        {name: "tosala", image:"images/tosala2.png", link:"https://letwork.herokuapp.com/"},
        {name: "portfolio", image:"images/dav.png", link:"https://davidsibato.github.io/portfolio/"},
        {name: "Siphone app", image:"images/images.png", link:"https://siphone.netlify.app/"},
+       {name: "Sixbato weather app", image:"images/sixbato.png", link:"https://sibato-smashit.web.app/"},
        {name: "2j water", image:"images/water-drop.png", link:""},
        {name: "mini netflix", image:"images/self.png", link:""},
        {name: "Priscy's Liquorshop", image:"images/liquor.png", link:""},
-       {name: "Coffee shop", image:"images/coffee.jpg", link:""},
        {name: "first-rate care", image:"images/first-rate.png", link:""},
        {name: "Aulda", image:"images/aulda.png", link:""}
    ]
