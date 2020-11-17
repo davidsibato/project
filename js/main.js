@@ -18,7 +18,7 @@ var nbDrop = 800;
    const container = document.querySelector(".container")
    const project=[
        {name: "online payment", image:"images/card.png", link:""},
-       {name: "tosala", image:"images/tosala2.png", link:"https://letwork.herokuapp.com/"},
+       {name: "tosala", image:"images/t_logo.png", link:"https://letwork.herokuapp.com/"},
        {name: "portfolio", image:"images/dav.png", link:"https://davidsibato.github.io/portfolio/"},
        {name: "Siphone app", image:"images/images.png", link:"https://siphone.netlify.app/"},
        {name: "Sixbato weather app", image:"images/sixbato.png", link:"https://sibato-smashit.web.app/"},
