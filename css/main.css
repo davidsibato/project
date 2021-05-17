@@ -127,6 +127,7 @@ html {
     background-color: #494966a6;
     padding: 2rem 0;
     position: absolute;
+    bottom: 0;
 }
 
 .copyright p{
