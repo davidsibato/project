@@ -17,7 +17,8 @@ var nbDrop = 800;
 
    const container = document.querySelector(".container")
    const project=[
-       {name: "online payment (not yet Available)", image:"images/card.png", link:"#!"},
+       //{name: "online payment (not yet Available)", image:"images/card.png", link:"#!"},
+       {name: "Mxit", image:"images/Mxit_Clrr.png", link:"essentialservices.africa"},
        {name: "tosala", image:"images/t_logo.png", link:"https://to-sala.herokuapp.com/"},
        {name: "portfolio", image:"images/dav.png", link:"https://davidsibato.github.io/portfolio/"},
        {name: "Siphone app", image:"images/images.png", link:"https://siphone.netlify.app/"},
