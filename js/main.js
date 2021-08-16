@@ -17,16 +17,16 @@ var nbDrop = 800;
 
    const container = document.querySelector(".container")
    const project=[
-       {name: "online payment (not Available)", image:"images/card.png", link:"#!"},
-       {name: "tosala", image:"images/t_logo.png", link:"https://letwork.herokuapp.com/"},
+       {name: "online payment (not yet Available)", image:"images/card.png", link:"#!"},
+       {name: "tosala", image:"images/t_logo.png", link:"https://to-sala.herokuapp.com/"},
        {name: "portfolio", image:"images/dav.png", link:"https://davidsibato.github.io/portfolio/"},
        {name: "Siphone app", image:"images/images.png", link:"https://siphone.netlify.app/"},
        {name: "Sixbato weather app", image:"images/sixbato.png", link:"https://sibato-smashit.web.app/"},
        {name: "SixMovie", image:"images/self.png", link:"https://sibato-movie.netlify.app/"},
-       {name: "2j water (not Available)", image:"images/water-drop.png", link:"#!"},
-       {name: "Priscy's Liquorshop (not Available)", image:"images/liquor.png", link:"#!"},
-       {name: "first-rate care (not Available)", image:"images/first-rate.png", link:"#!"},
-       {name: "Aulda (not Available)", image:"images/aulda.png", link:"#!"}
+       {name: "2j water (not yet Available)", image:"images/water-drop.png", link:"#!"},
+       {name: "Priscy's Liquorshop (not yet Available)", image:"images/liquor.png", link:"#!"},
+       {name: "first-rate care (not yet Available)", image:"images/first-rate.png", link:"#!"},
+       {name: "Aulda (not yet Available)", image:"images/aulda.png", link:"#!"}
    ]
 
    const showProject=()=>{
